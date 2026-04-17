@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lock Screen</string>
+
+    <!-- Accessibility service label shown in Settings → Accessibility -->
+    <string name="accessibility_service_label">Lock Screen</string>
+
+    <!-- Accessibility service description shown in Settings → Accessibility -->
+    <string name="accessibility_service_description">Allows the Lock Screen app to lock the device screen when you tap its icon. No accessibility events are monitored.</string>
+
+    <!-- Dialog shown on first launch (service not yet enabled) -->
+    <string name="dialog_title">Enable Accessibility Service</string>
+    <string name="dialog_message">To lock the screen with one tap, enable the \"Lock Screen\" accessibility service.\n\nTap \"Open Settings\", select \"Lock Screen\", and toggle it on.</string>
+    <string name="dialog_open_settings">Open Settings</string>
+</resources>
