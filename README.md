@@ -37,15 +37,6 @@ When the service is enabled, tapping the app icon calls
 - Android Studio (Ladybug 2024.2 or newer) **or** Gradle 8.9 + JDK 17
 - Android SDK platform 36
 
-### Generate the Gradle wrapper (first clone only)
-
-The binary `gradle-wrapper.jar` is not stored in the repository.  
-Run once after cloning:
-
-```bash
-gradle wrapper --gradle-version 8.9
-```
-
 ### Build a debug APK
 
 ```bash
